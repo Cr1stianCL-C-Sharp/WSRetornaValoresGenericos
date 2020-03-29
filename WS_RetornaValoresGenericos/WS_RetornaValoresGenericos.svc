@@ -1,0 +1,1 @@
+﻿<%@ ServiceHost Language="C#" Debug="true" Service="WS_RetornaValoresGenericos.Service1" CodeBehind="WS_RetornaValoresGenericos.svc.cs" %>
